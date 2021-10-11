@@ -1,0 +1,27 @@
+I"D
+<div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
+
+
+
+
+
+
+  <div>
+    <a class="tag" href="/tags/customer/">Customer<span class="text-muted">9</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/devloper-style-guide/">Devloper Style Guide<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/devloper-toolchain-setup/">Devloper Toolchain Setup<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/javascript-style-guide/">javaScript Style Guide<span class="text-muted">1</span></a>
+  </div>
+
+
+</div>
+:ET
