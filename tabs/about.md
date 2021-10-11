@@ -7,3 +7,5 @@ title: About
 # MIT License
 ---
 
+### Notes are written in Markdown styleguide can be found [here](https://developer.rhino3d.com/guides/general/developer-docs-style-guide/)
+
